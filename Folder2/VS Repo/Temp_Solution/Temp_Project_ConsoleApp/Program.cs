@@ -10,12 +10,7 @@ namespace Temp_Project_ConsoleApp
     {
         static void Main(string[] args)
         {
-            // 1. Modified in local master
-
-            // 2. Modified in local development
-
-            // Origin master 3/05/2020
-            
+            // New dev
         }
     }
 }
